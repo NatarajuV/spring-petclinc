@@ -7,7 +7,7 @@
   <artifactId>spring-petclinic</artifactId>
   <packaging>war</packaging>
   <version>2.1.0</version>
-  <name>petclinic</name>
+  
 
   <parent>
     <groupId>org.springframework.boot</groupId>
